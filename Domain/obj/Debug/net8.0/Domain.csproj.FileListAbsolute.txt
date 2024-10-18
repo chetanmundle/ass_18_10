@@ -1,0 +1,11 @@
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\obj\Debug\net8.0\Domain.dll
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Asp.NetCore\Assissment_18_10_2024\Assessment_18_10_2024_Backend\Domain\obj\Debug\net8.0\ref\Domain.dll

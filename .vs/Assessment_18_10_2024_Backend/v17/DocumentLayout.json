@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\app.core\\models\\customer\\createcustomerrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|solutionrelative:app.core\\models\\customer\\createcustomerrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BF3660-8AD7-44BD-ADA2-52FD1ACC86AE}|Domain\\Domain.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BF3660-8AD7-44BD-ADA2-52FD1ACC86AE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\app.core\\models\\customer\\createcustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|solutionrelative:app.core\\models\\customer\\createcustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\app.core\\app\\customer\\command\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app\\customer\\command\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\app.core\\app\\employee\\command\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app\\employee\\command\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\app.core\\app\\patient\\command\\updatepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app\\patient\\command\\updatepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\app.core\\app\\customer\\command\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app\\customer\\command\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\app.core\\app\\employee\\command\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app\\employee\\command\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\app.core\\app\\patient\\command\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app\\patient\\command\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ED88B5-5BA5-4164-B6D2-202DA2CC50FE}|Assessment_18_10_2024_Backend\\Assessment_18_10_2024_Backend.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\assessment_18_10_2024_backend\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ED88B5-5BA5-4164-B6D2-202DA2CC50FE}|Assessment_18_10_2024_Backend\\Assessment_18_10_2024_Backend.csproj|solutionrelative:assessment_18_10_2024_backend\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ED88B5-5BA5-4164-B6D2-202DA2CC50FE}|Assessment_18_10_2024_Backend\\Assessment_18_10_2024_Backend.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\assessment_18_10_2024_backend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ED88B5-5BA5-4164-B6D2-202DA2CC50FE}|Assessment_18_10_2024_Backend\\Assessment_18_10_2024_Backend.csproj|solutionrelative:assessment_18_10_2024_backend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\app.core\\app\\patient\\command\\deletepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app\\patient\\command\\deletepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|d:\\visual studio\\asp.netcore\\assissment_18_10_2024\\assessment_18_10_2024_backend\\app.core\\app\\employee\\command\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC7A6C9-8E2B-4085-A8E4-698DD1F1F2C7}|App.Core\\App.Core.csproj|solutionrelative:app.core\\app\\employee\\command\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCustomerRequestDtoValidator.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\Models\\Customer\\CreateCustomerRequestDtoValidator.cs",
+              "RelativeDocumentMoniker": "App.Core\\Models\\Customer\\CreateCustomerRequestDtoValidator.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\Models\\Customer\\CreateCustomerRequestDtoValidator.cs",
+              "RelativeToolTip": "App.Core\\Models\\Customer\\CreateCustomerRequestDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:32:58.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Customer.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:00:02.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCustomerRequestDto.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\Models\\Customer\\CreateCustomerRequestDto.cs",
+              "RelativeDocumentMoniker": "App.Core\\Models\\Customer\\CreateCustomerRequestDto.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\Models\\Customer\\CreateCustomerRequestDto.cs",
+              "RelativeToolTip": "App.Core\\Models\\Customer\\CreateCustomerRequestDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:19:10.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdatePatientCommand.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Patient\\Command\\UpdatePatientCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\App\\Patient\\Command\\UpdatePatientCommand.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Patient\\Command\\UpdatePatientCommand.cs",
+              "RelativeToolTip": "App.Core\\App\\Patient\\Command\\UpdatePatientCommand.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwD8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:32:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Employee\\Command\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\App\\Employee\\Command\\UpdateEmployeeCommand.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Employee\\Command\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "App.Core\\App\\Employee\\Command\\UpdateEmployeeCommand.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAD4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:32:02.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Customer\\Command\\UpdateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\App\\Customer\\Command\\UpdateCustomerCommand.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Customer\\Command\\UpdateCustomerCommand.cs",
+              "RelativeToolTip": "App.Core\\App\\Customer\\Command\\UpdateCustomerCommand.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:31:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Customer\\Command\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\App\\Customer\\Command\\CreateCustomerCommand.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Customer\\Command\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "App.Core\\App\\Customer\\Command\\CreateCustomerCommand.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:31:27.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatePatientCommand.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Patient\\Command\\CreatePatientCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\App\\Patient\\Command\\CreatePatientCommand.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Patient\\Command\\CreatePatientCommand.cs",
+              "RelativeToolTip": "App.Core\\App\\Patient\\Command\\CreatePatientCommand.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:31:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Employee\\Command\\CreateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\App\\Employee\\Command\\CreateEmployeeCommand.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Employee\\Command\\CreateEmployeeCommand.cs",
+              "RelativeToolTip": "App.Core\\App\\Employee\\Command\\CreateEmployeeCommand.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:31:10.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\Assessment_18_10_2024_Backend\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Assessment_18_10_2024_Backend\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\Assessment_18_10_2024_Backend\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Assessment_18_10_2024_Backend\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:39:32.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\Assessment_18_10_2024_Backend\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Assessment_18_10_2024_Backend\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\Assessment_18_10_2024_Backend\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Assessment_18_10_2024_Backend\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:39:25.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeletePatientCommand.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Patient\\Command\\DeletePatientCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\App\\Patient\\Command\\DeletePatientCommand.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Patient\\Command\\DeletePatientCommand.cs",
+              "RelativeToolTip": "App.Core\\App\\Patient\\Command\\DeletePatientCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:36:13.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Employee\\Command\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "App.Core\\App\\Employee\\Command\\DeleteEmployeeCommand.cs",
+              "ToolTip": "D:\\Visual Studio\\Asp.NetCore\\Assissment_18_10_2024\\Assessment_18_10_2024_Backend\\App.Core\\App\\Employee\\Command\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "App.Core\\App\\Employee\\Command\\DeleteEmployeeCommand.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:35:51.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
